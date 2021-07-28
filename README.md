@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/marcela-os"><img src="logo_dev.jpg" title="logo" alt="logogithub"></a>
+<a href="https://github.com/marcela-os"><img src="logo_dev.png" title="logo" alt="logogithub"></a>
 </p>
 <br>
 <p>
