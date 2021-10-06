@@ -9,6 +9,7 @@
 I’m Junior Web Developer based in Brugge, Belgium
 
 - 🌱 I’m currently learning Javascript, React
+- :stars: While lying in bed I code in my mind and solve problems
 - :art: Master of Arts at Lodz University of Technology
 - :eyes: I’m interested in climbing, dogfrisbee
 
