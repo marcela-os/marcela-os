@@ -6,12 +6,12 @@
   <h2 align="center"><b>Hi, I’m Marcelina 👋</b></h2>
 </p>
 
-I’m Junior Web Developer based in Brugge, Belgium
+I’m Web Developer based in Brugge, Belgium
 
-- 🌱 I’m currently learning Javascript, React
+- 🌱 I’m currently working in Javascript and Vue.js
 - :stars: While lying in bed I code in my mind and solve problems
 - :art: Master of Arts at Lodz University of Technology
-- :eyes: I’m interested in climbing, dogfrisbee
+- :eyes: I’m learning Three.js
 
 <!---
 marcela-os/marcela-os is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
